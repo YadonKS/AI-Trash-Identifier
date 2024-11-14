@@ -2,7 +2,7 @@
 An AI-powered web application that identifies and classifies types of trash from user-uploaded images, designed to support better waste sorting and recycling efforts.
 
 # Overview
-This application will use the CNN model, which is built using TensorFlow. It will categorize the images of trash into various categories. The model has been trained on the labeled dataset from Kaggle to be able to recognize common types of waste. A web server connects a model to a HTML/CSS/JavaScript front-end. Users are able to upload an image and get real-time prediction about trash type.
+This application will use the CNN model, which is built using TensorFlow. It will categorize the images of trash into two categories. The model has been trained on the labeled dataset from Kaggle to be able to recognize common types of waste. A web server connects a model to a HTML/CSS/JavaScript front-end. Users are able to upload an image and get real-time prediction about trash type.
 
 # Features
 **Image Classification**: Classifies images of trash into categories, aiding waste management efforts.
