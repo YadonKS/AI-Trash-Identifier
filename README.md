@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/6bdacde4-1582-40e1-860b-aab79e154627)
+
 # AI-Trash-Identifier
 An AI-powered web application that identifies and classifies types of trash from user-uploaded images, designed to support better waste sorting and recycling efforts.
 
